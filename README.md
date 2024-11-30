@@ -22,7 +22,7 @@ While this repository primarily contains my personal solutions, suggestions and 
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/advent-of-code&type=Date)](https://star-history.com/#your-username/advent-of-code&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=fatima-malik99/Advent-of-Code2024&type=Date)](https://star-history.com/#fatima-malik99/Advent-of-Code2024&Date)
 
 ## 📧 Contact
 

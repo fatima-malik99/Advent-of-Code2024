@@ -45,7 +45,9 @@ Processing each pair of sorted numbers:
    ```
 
 **Final Result:** 5
+
 ---
+
 ## Solution Walkthrough - Part 2
 ### Calculating Similarity Score for solution 2
 Processing each number in `left_list`:
